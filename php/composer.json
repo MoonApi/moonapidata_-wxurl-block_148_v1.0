@@ -1,0 +1,12 @@
+{
+    "name": "moonapi/demo",
+    "description": "MoonApi PHP Demo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "MoonApiDemo",
+            "email": "demo@moonapi.com"
+        }
+    ],
+    "require": {}
+}
