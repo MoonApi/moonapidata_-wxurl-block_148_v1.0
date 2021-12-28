@@ -1,37 +1,18 @@
 # MoonApiData_WXUrlBlock_148_v1.0
 
 #### 介绍
-月萌API, 微信域名检测API Demo，实时检测域名是否被微信屏蔽，可通过微信域名检测API接口为域名保驾护航
+月萌API, 微信域名检测API Demo，实时检测域名是否被微信屏蔽，可通过微信域名检测API接口为域名保驾护航。
+demo提供月萌API签名认证逻辑，接口调用逻辑，json转实体（C#/Java/Python)的工具类等的C#/Java/Python/Php/NodeJs实现
 
-#### 软件架构
-软件架构说明
+#### 注意
+此项目为微信域名检测API的各语言示例demo，检测方法是调用月萌API的接口实现的
 
+#### 更新
+此项目会与[月萌API](http://www.moonapi.com)官网www.moonapi.com保持同步更新
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.  包含包管理工具的项目请先更新包
+2.  根据代码中的TODO注释填入相应的参数
+3.  若需更多语言示例请提issue或联系月萌API站长
